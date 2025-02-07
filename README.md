@@ -46,6 +46,48 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 
+## Technologies I Know
+
+<!-- C++ -->
+<img src="https://seeklogo.com/images/C/c-programming-language-logo-213B21032C-seeklogo.com.png" alt="C++ Logo" width="50" height="50"/>
+
+<!-- HTML -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="50" height="50"/>
+
+<!-- CSS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" width="50" height="50"/>
+
+<!-- JavaScript -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>
+
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/>
+
+<!-- Figma -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma Logo" width="50" height="50"/>
+
+<!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="50" height="50"/>
+
+<!-- Canva -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva Logo" width="50" height="50"/>
+
+<!-- CapCut -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/CapCut_Logo.svg/1200px-CapCut_Logo.svg.png" alt="CapCut Logo" width="50" height="50"/>
+
+<!-- Jupyter Notebook -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook Logo" width="50" height="50"/>
+
+<!-- Anaconda -->
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda Logo" width="50" height="50"/>
+
+<!-- Code::Blocks -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Codeblocks_logo.png" alt="CodeBlocks Logo" width="50" height="50"/>
+
+<!-- Visual Studio Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="50" height="50"/>
+
+
 ## 🎯 **My Tech Journey**  
 💡 Built a **Daraz front page clone** to refine CSS skills  
 💡 Designed a **Food Ordering Website (Little Lemon) in Figma**  
