@@ -26,6 +26,19 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" alt="Jupyter Notebook" width="50" height="50"/>
 </p>
 
+<!-- Code::Blocks -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Codeblocks_logo.png" alt="Code::Blocks" width="50" height="50"/>
+
+<!-- Visual Studio Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+
+<!-- Anaconda Navigator -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Anaconda_Logo.svg" alt="Anaconda Navigator" width="50" height="50"/>
+
+<!-- CapCut -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/CapCut_Logo.svg/1200px-CapCut_Logo.svg.png" alt="CapCut" width="50" height="50"/>
+
+
 ## 🎯 **My Tech Journey**  
 💡 Built a **Daraz front page clone** to refine CSS skills  
 💡 Designed a **Food Ordering Website (Little Lemon) in Figma**  
