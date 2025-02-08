@@ -9,7 +9,7 @@
 ✔️ **UI/UX Design** – Creating Interactive Prototypes  
 ✔️ **DevOps Learner** – Exploring Cloud & Automation  
 
-##    **I Know **
+##    **  I Know  **
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
